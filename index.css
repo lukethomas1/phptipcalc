@@ -1,0 +1,15 @@
+.error {
+  color: red;
+}
+
+#result {
+  border: 2px solid black;
+  padding: 5px;
+}
+
+#box {
+  margin: 20vh 30vw;
+  text-align: center;
+  border: 2px solid green;
+  padding: 5vw;
+}
